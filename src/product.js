@@ -28,13 +28,15 @@ export const PRODUCTS = [
   },
   {
     id: 4,
-    productName: "WLS Van Gogh Denim Jacket",
-    price: 228.0,
+    productName:
+      "QKZ DM10 Zinc Alloy HiFi Earphone In Ear Earphones Sports Headset Phone Laptop Gaming Earphone",
+    price: 28.0,
     productImage: product4,
   },
   {
     id: 5,
-    productName: "LED Light Strips",
+    productName:
+      "116plus smart watch heart rate and blood pressure monitor for men, women and children",
     price: 19.99,
     productImage: product5,
   },
@@ -52,7 +54,8 @@ export const PRODUCTS = [
   },
   {
     id: 8,
-    productName: "DON'T TRIP UNSTRUCTURED HAT",
+    productName:
+      "Men summer Fashion Embroidery Letter Baseball Cap Hip Hop Sports Hat Outdroo Cap",
     price: 40.0,
     productImage: product8,
   },
